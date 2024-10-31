@@ -1,0 +1,12 @@
+/* Custom CSS */
+.list-group .post_title_permalink {
+  text-decoration:none !important;
+}
+.list-group .post_list {
+  margin-bottom:2px;
+  background-color:#F2F1EF;
+  color:black;
+}
+.list-group .post_list .title_style {
+  font-size:16px;
+}
